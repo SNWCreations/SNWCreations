@@ -28,4 +28,4 @@ Here is my stats.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snwcreations&show_icons=true&locale=en" alt="snwcreations" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SNWCreations)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SNWCreations)](https://github.com/ashutosh00710/github-readme-activity-graph)
