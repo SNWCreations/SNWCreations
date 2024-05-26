@@ -1,14 +1,14 @@
 # Hi there! I'm SNWCreations.
 
-_Tips: My full user name is "Summer Night Wind". "Creations" is additional suffix. :D_
+_Tips: My full nickname is "Summer Night Wind". "Creations" is additional suffix. :D_
 
 Nice to meet you!
 
-I'm a Java programmer. But I'm not professional.
+I am ...
+* a Java programming hobbist
+* a Minecraft player & modder
 
-I just like make Minecraft plugins. You can see them in "repositories" tab!
-
-I like GNU project. Most of my projects use GNU project licenses authorized.
+I love open source. The world is powered by open source.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
