@@ -1,11 +1,3 @@
-# HIGHEST WARNING!
-
-DO NOT BELIEVE ANY LINK POSTED BY MY ACCOUNT IN ISSUES, THAT IS MALWARE.
-
-I'm sorry for leaving my account under danger and make it a robot account to spread the malware.
-
-I've secured my account, but DO NOT believe any files in issues that you NOT trust!!!!!!!!!
-
 # Hi there! I'm SNWCreations.
 
 _Tips: My full nickname is "Summer Night Wind". "Creations" is additional suffix. :D_
